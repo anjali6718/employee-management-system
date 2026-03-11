@@ -48,4 +48,4 @@ employee-management-system
 
 ## Author
 
-Neeyu Vaidhya
+Anjali Rathor
